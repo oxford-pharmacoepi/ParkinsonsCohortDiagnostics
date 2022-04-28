@@ -1,0 +1,139 @@
+{
+  "R": {
+    "Version": "4.1.0",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "CirceR": {
+      "Package": "CirceR",
+      "Version": "1.1.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteUsername": "ohdsi",
+      "RemoteRepo": "CirceR",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "1b0b74d31803a2c97c3c58173dc248a5a0551168",
+      "RemoteHost": "api.github.com",
+      "Hash": "f87509b2e08aefd421e82c097d6181ef",
+      "Requirements": []
+    },
+    "CohortDiagnostics": {
+      "Package": "CohortDiagnostics",
+      "Version": "2.2.4",
+      "Source": "GitHub",
+      "Remotes": "ohdsi/Eunomia, ohdsi/FeatureExtraction, ohdsi/ROhdsiWebApi,\n        ohdsi/CirceR, ohdsi/CohortGenerator",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "CohortDiagnostics",
+      "RemoteUsername": "OHDSI",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "3836704a674e68964dfa6ef13f8777bcea60780d",
+      "Hash": "7a6a0ec0dcc4d108b223a0f23d5ab448",
+      "Requirements": [
+        "CohortGenerator",
+        "DatabaseConnector",
+        "FeatureExtraction",
+        "ROhdsiWebApi",
+        "SqlRender"
+      ]
+    },
+    "CohortGenerator": {
+      "Package": "CohortGenerator",
+      "Version": "0.3.0",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteUsername": "OHDSI",
+      "RemoteRepo": "CohortGenerator",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "c3dd16981dcd31a03debad9e5854c7c0d1a967db",
+      "RemoteHost": "api.github.com",
+      "Remotes": "ohdsi/CirceR, ohdsi/Eunomia, ohdsi/ROhdsiWebApi",
+      "Hash": "5fc24f1b3ca17c890faa3c3d5a739212",
+      "Requirements": [
+        "DatabaseConnector",
+        "SqlRender"
+      ]
+    },
+    "DatabaseConnector": {
+      "Package": "DatabaseConnector",
+      "Version": "5.0.2",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "DatabaseConnector",
+      "RemoteUsername": "ablack3",
+      "RemoteRef": "dbplyr",
+      "RemoteSha": "96f097208fd951fc8d6e288260e13c1c266cb6de",
+      "Hash": "4a93816d09da9e86f9c813e7d0e29dac",
+      "Requirements": [
+        "SqlRender"
+      ]
+    },
+    "FeatureExtraction": {
+      "Package": "FeatureExtraction",
+      "Version": "3.2.0",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteUsername": "ohdsi",
+      "RemoteRepo": "FeatureExtraction",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "5363f5f4cdaf8b31ce9f193861169047b11ea41c",
+      "RemoteHost": "api.github.com",
+      "Remotes": "ohdsi/Eunomia",
+      "Hash": "2e6f81230989e15003feaf3dad0628ee",
+      "Requirements": [
+        "DatabaseConnector",
+        "SqlRender"
+      ]
+    },
+    "ROhdsiWebApi": {
+      "Package": "ROhdsiWebApi",
+      "Version": "1.3.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "ROhdsiWebApi",
+      "RemoteUsername": "ohdsi",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "f48f8f593b4e9e073e56669dcb5541b098548df8",
+      "Hash": "06d219164cf9ebbee3e7efd6b3e195fa",
+      "Requirements": [
+        "SqlRender"
+      ]
+    },
+    "Rcpp": {
+      "Package": "Rcpp",
+      "Version": "1.0.8",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "22b546dd7e337f6c0c58a39983a496bc",
+      "Requirements": []
+    },
+    "SqlRender": {
+      "Package": "SqlRender",
+      "Version": "1.9.0",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteUsername": "OHDSI",
+      "RemoteRepo": "SqlRender",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "a3b38a9306c651b005718acf1aaaef35d7b56d50",
+      "RemoteHost": "api.github.com",
+      "Hash": "4507f31c4f726215f5af9552d7783e73",
+      "Requirements": []
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "0.15.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "c1078316e1d4f70275fc1ea60c0bc431",
+      "Requirements": []
+    }
+  }
+}
