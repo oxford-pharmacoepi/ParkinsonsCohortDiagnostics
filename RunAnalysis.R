@@ -68,7 +68,7 @@ executeDiagnostics(cohortDefinitionSet,
 # drop cohort stats table
 CohortGenerator::dropCohortStatsTables(
     connectionDetails = connectionDetails,
-    cohortDatabaseSchema = cohortDatabaseSchema,
+    cohortDatabaseSchema = results_database_schema,
     cohortTableNames = cohortTableNames,
     connection = NULL)
 
