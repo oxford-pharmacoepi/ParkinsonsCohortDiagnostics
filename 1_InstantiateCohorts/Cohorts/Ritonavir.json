@@ -1,8 +1,8 @@
 {
   "ConceptSets": [
     {
-      "id": 0,
-      "name": "Ritonavir",
+      "id": 1,
+      "name": "Ritonavir2",
       "expression": {
         "items": [
           {
@@ -28,7 +28,7 @@
     "CriteriaList": [
       {
         "DrugExposure": {
-          "CodesetId": 0
+          "CodesetId": 1
         }
       }
     ],
