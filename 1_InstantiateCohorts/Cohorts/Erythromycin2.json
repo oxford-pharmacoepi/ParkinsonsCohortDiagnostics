@@ -2,21 +2,21 @@
   "ConceptSets": [
     {
       "id": 0,
-      "name": "erythromycin",
+      "name": "Erythromycin1",
       "expression": {
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "4053",
-              "CONCEPT_ID": 1746940,
-              "CONCEPT_NAME": "erythromycin",
+              "CONCEPT_CLASS_ID": "ATC 5th",
+              "CONCEPT_CODE": "J01FA01",
+              "CONCEPT_ID": 21602970,
+              "CONCEPT_NAME": "erythromycin; systemic",
               "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "ATC"
             },
             "includeDescendants": true
           }
