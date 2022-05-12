@@ -90,7 +90,12 @@
   "PrimaryCriteria": {
     "CriteriaList": [
       {
-        "DrugExposure": {
+        "ConditionOccurrence": {
+          "CodesetId": 0
+        }
+      },
+      {
+        "Observation": {
           "CodesetId": 0
         }
       }
