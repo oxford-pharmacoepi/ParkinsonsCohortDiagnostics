@@ -13,6 +13,8 @@ library(CirceR)
 library(CohortGenerator)
 library(here)
 library(stringr)
+library(tibble)
+library(dplyr)
 
 # database metadata and connection details -----
 # The name/ acronym for the database
