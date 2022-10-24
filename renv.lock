@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.1.2",
+    "Version": "4.1.3",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -48,14 +48,14 @@
       "Package": "CohortDiagnostics",
       "Version": "2.2.4",
       "Source": "GitHub",
-      "Remotes": "ohdsi/Eunomia, ohdsi/FeatureExtraction, ohdsi/ROhdsiWebApi,\n        ohdsi/CirceR, ohdsi/CohortGenerator",
       "RemoteType": "github",
+      "Remotes": "ohdsi/Eunomia, ohdsi/FeatureExtraction, ohdsi/ROhdsiWebApi,\n    ohdsi/CirceR, ohdsi/CohortGenerator",
       "RemoteHost": "api.github.com",
       "RemoteRepo": "CohortDiagnostics",
       "RemoteUsername": "darwin-eu",
       "RemoteRef": "HEAD",
       "RemoteSha": "262ec42db1def09c6d45d7666191388a889e9cd7",
-      "Hash": "ae982324a98f81a50e12446e76f1b3d8",
+      "Hash": "2de6defc4651a34907261279c7c0a2af",
       "Requirements": [
         "Andromeda",
         "CohortGenerator",
@@ -649,12 +649,11 @@
     },
     "tibble": {
       "Package": "tibble",
-      "Version": "3.1.6",
+      "Version": "3.1.8",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "8a8f02d1934dfd6431c671361510dd0b",
+      "Hash": "56b6934ef0f8c68225949a8672fe1a8f",
       "Requirements": [
-        "ellipsis",
         "fansi",
         "lifecycle",
         "magrittr",
