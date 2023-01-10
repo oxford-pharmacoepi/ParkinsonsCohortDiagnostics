@@ -18,6 +18,7 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             }
+            
           },
           {
             "concept": {
@@ -389,20 +390,6 @@
               "CONCEPT_CODE": "130121000119104",
               "CONCEPT_ID": 43020422,
               "CONCEPT_NAME": "Dementia due to Rett's syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "82959004",
-              "CONCEPT_ID": 4307791,
-              "CONCEPT_NAME": "Dementia paralytica juvenilis",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
