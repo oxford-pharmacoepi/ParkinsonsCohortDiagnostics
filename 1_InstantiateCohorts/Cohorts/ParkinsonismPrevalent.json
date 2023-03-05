@@ -2,400 +2,473 @@
   "ConceptSets": [
     {
       "id": 0,
-      "name": "allcausedementia",
+      "name": "Parkinsonism Prevalent",
       "expression": {
         "items": [
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "788861009",
-              "CONCEPT_ID": 37312036,
-              "CONCEPT_NAME": "Aggression due to dementia",
+              "CONCEPT_CODE": "295819009",
+              "CONCEPT_ID": 4169856,
+              "CONCEPT_NAME": "Accidental amantadine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "788862002",
-              "CONCEPT_ID": 37312035,
-              "CONCEPT_NAME": "Agitation due to dementia",
+              "CONCEPT_CODE": "295827000",
+              "CONCEPT_ID": 4172905,
+              "CONCEPT_NAME": "Accidental bromocriptine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "97751000119108",
-              "CONCEPT_ID": 44784643,
-              "CONCEPT_NAME": "Altered behavior in Alzheimer's disease",
+              "CONCEPT_CODE": "290796007",
+              "CONCEPT_ID": 4096454,
+              "CONCEPT_NAME": "Accidental bromocriptine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "82361000119107",
-              "CONCEPT_ID": 44784620,
-              "CONCEPT_NAME": "Altered behavior in Huntington's dementia",
+              "CONCEPT_CODE": "290799000",
+              "CONCEPT_ID": 4094617,
+              "CONCEPT_NAME": "Accidental ethopropazine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "26929004",
-              "CONCEPT_ID": 378419,
-              "CONCEPT_NAME": "Alzheimer's disease",
+              "CONCEPT_CODE": "295815003",
+              "CONCEPT_ID": 4174459,
+              "CONCEPT_NAME": "Accidental levodopa overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "142011000119109",
-              "CONCEPT_ID": 37395572,
-              "CONCEPT_NAME": "Alzheimer's disease co-occurrent with delirium",
+              "CONCEPT_CODE": "290785004",
+              "CONCEPT_ID": 4095079,
+              "CONCEPT_NAME": "Accidental levodopa poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "838276009",
-              "CONCEPT_ID": 3654598,
-              "CONCEPT_NAME": "Amyotrophic lateral sclerosis, parkinsonism, dementia complex",
+              "CONCEPT_CODE": "295823001",
+              "CONCEPT_ID": 4176982,
+              "CONCEPT_NAME": "Accidental lysuride overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230258005",
-              "CONCEPT_ID": 4041685,
-              "CONCEPT_NAME": "Amyotrophic lateral sclerosis with dementia",
+              "CONCEPT_CODE": "290792009",
+              "CONCEPT_ID": 4094934,
+              "CONCEPT_NAME": "Accidental lysuride poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "788866004",
-              "CONCEPT_ID": 37312031,
-              "CONCEPT_NAME": "Anxiety due to dementia",
+              "CONCEPT_CODE": "216569007",
+              "CONCEPT_ID": 4311233,
+              "CONCEPT_NAME": "Accidental poisoning by amantadine",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "788867008",
-              "CONCEPT_ID": 37312030,
-              "CONCEPT_NAME": "Apathetic behavior due to dementia",
+              "CONCEPT_CODE": "269689002",
+              "CONCEPT_ID": 436864,
+              "CONCEPT_NAME": "Accidental poisoning by anticonvulsant and antiparkinsonism drugs",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191464005",
-              "CONCEPT_ID": 376094,
-              "CONCEPT_NAME": "Arteriosclerotic dementia with delirium",
+              "CONCEPT_CODE": "216570008",
+              "CONCEPT_ID": 4314244,
+              "CONCEPT_NAME": "Accidental poisoning by hydantoin derivative",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191466007",
-              "CONCEPT_ID": 374326,
-              "CONCEPT_NAME": "Arteriosclerotic dementia with depression",
+              "CONCEPT_CODE": "216572000",
+              "CONCEPT_ID": 4311235,
+              "CONCEPT_NAME": "Accidental poisoning by oxazolidine derivative",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191465006",
-              "CONCEPT_ID": 4100252,
-              "CONCEPT_NAME": "Arteriosclerotic dementia with paranoia",
+              "CONCEPT_CODE": "291237006",
+              "CONCEPT_ID": 4157072,
+              "CONCEPT_NAME": "Accidental selegiline poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "10171000132106",
-              "CONCEPT_ID": 35608576,
-              "CONCEPT_NAME": "Behavioral and psychological symptoms of dementia",
+              "CONCEPT_CODE": "720466001",
+              "CONCEPT_ID": 36715010,
+              "CONCEPT_NAME": "Adult-onset dystonia parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "16219201000119101",
-              "CONCEPT_ID": 37117145,
-              "CONCEPT_NAME": "Behavioral disturbance co-occurrent and due to late onset Alzheimer dementia",
+              "CONCEPT_CODE": "295818001",
+              "CONCEPT_ID": 4172903,
+              "CONCEPT_NAME": "Amantadine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "716994006",
-              "CONCEPT_ID": 37399020,
-              "CONCEPT_NAME": "Behavioral variant of frontotemporal dementia",
+              "CONCEPT_CODE": "295821004",
+              "CONCEPT_ID": 4174460,
+              "CONCEPT_NAME": "Amantadine overdose of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "279982005",
-              "CONCEPT_ID": 4092747,
-              "CONCEPT_NAME": "Cerebral degeneration presenting primarily with dementia",
+              "CONCEPT_CODE": "290790001",
+              "CONCEPT_ID": 4094615,
+              "CONCEPT_NAME": "Amantadine poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "702393003",
-              "CONCEPT_ID": 45771254,
-              "CONCEPT_NAME": "CHMP2B-related frontotemporal dementia",
+              "CONCEPT_CODE": "269265001",
+              "CONCEPT_ID": 4151115,
+              "CONCEPT_NAME": "Anticonvulsant and antiParkinsonian drug poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "833326008",
-              "CONCEPT_ID": 3654434,
-              "CONCEPT_NAME": "Cortical vascular dementia",
+              "CONCEPT_CODE": "789657008",
+              "CONCEPT_ID": 37312166,
+              "CONCEPT_NAME": "ATPase cation transporting 13A2 related juvenile neuronal ceroid lipofuscinosis",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "725898002",
-              "CONCEPT_ID": 37111242,
-              "CONCEPT_NAME": "Delirium co-occurrent with dementia",
+              "CONCEPT_CODE": "725146001",
+              "CONCEPT_ID": 37110776,
+              "CONCEPT_NAME": "Atypical juvenile parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "141991000119109",
-              "CONCEPT_ID": 44782726,
-              "CONCEPT_NAME": "Delusions in Alzheimer's disease",
+              "CONCEPT_CODE": "722964001",
+              "CONCEPT_ID": 36716783,
+              "CONCEPT_NAME": "Atypical Parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "52448006",
-              "CONCEPT_ID": 4182210,
-              "CONCEPT_NAME": "Dementia",
+              "CONCEPT_CODE": "716662004",
+              "CONCEPT_ID": 37396747,
+              "CONCEPT_NAME": "Autosomal dominant late onset Parkinson disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "421529006",
-              "CONCEPT_ID": 4228133,
-              "CONCEPT_NAME": "Dementia associated with AIDS",
+              "CONCEPT_CODE": "725392005",
+              "CONCEPT_ID": 37110872,
+              "CONCEPT_NAME": "Autosomal dominant striatal neurodegeneration",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "281004",
-              "CONCEPT_ID": 378726,
-              "CONCEPT_NAME": "Dementia associated with alcoholism",
+              "CONCEPT_CODE": "295826009",
+              "CONCEPT_ID": 4174462,
+              "CONCEPT_NAME": "Bromocriptine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191519005",
-              "CONCEPT_ID": 374888,
-              "CONCEPT_NAME": "Dementia associated with another disease",
+              "CONCEPT_CODE": "295829002",
+              "CONCEPT_ID": 4169860,
+              "CONCEPT_NAME": "Bromocriptine overdose of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "698781002",
-              "CONCEPT_ID": 44784607,
-              "CONCEPT_NAME": "Dementia associated with cerebral anoxia",
+              "CONCEPT_CODE": "290795006",
+              "CONCEPT_ID": 4094936,
+              "CONCEPT_NAME": "Bromocriptine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "698624003",
-              "CONCEPT_ID": 44784472,
-              "CONCEPT_NAME": "Dementia associated with cerebral lipidosis",
+              "CONCEPT_CODE": "290798008",
+              "CONCEPT_ID": 4094616,
+              "CONCEPT_NAME": "Bromocriptine poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "698626001",
-              "CONCEPT_ID": 44784474,
-              "CONCEPT_NAME": "Dementia associated with multiple sclerosis",
+              "CONCEPT_CODE": "230293003",
+              "CONCEPT_ID": 4046092,
+              "CONCEPT_NAME": "Carbon monoxide-induced parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "438513002",
+              "CONCEPT_ID": 4231949,
+              "CONCEPT_NAME": "Cerebral degeneration due to Parkinson's disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "341551000000108",
+              "CONCEPT_ID": 44792293,
+              "CONCEPT_NAME": "Cerebral degeneration in Parkinson's disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "291235003",
+              "CONCEPT_ID": 4157071,
+              "CONCEPT_NAME": "Decarboxylase inhibitor poisoning",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true
           },
           {
             "concept": {
@@ -409,105 +482,8 @@
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "713844000",
-              "CONCEPT_ID": 37017549,
-              "CONCEPT_NAME": "Dementia co-occurrent with human immunodeficiency virus infection",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "722980006",
-              "CONCEPT_ID": 36716797,
-              "CONCEPT_NAME": "Dementia due to chromosomal anomaly",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "429458009",
-              "CONCEPT_ID": 4180284,
-              "CONCEPT_NAME": "Dementia due to Creutzfeldt Jakob disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "724776007",
-              "CONCEPT_ID": 37110513,
-              "CONCEPT_NAME": "Dementia due to disorder of central nervous system",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "442344002",
-              "CONCEPT_ID": 40483103,
-              "CONCEPT_NAME": "Dementia due to Huntington chorea",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "722979008",
-              "CONCEPT_ID": 36716796,
-              "CONCEPT_NAME": "Dementia due to metabolic abnormality",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "82371000119101",
-              "CONCEPT_ID": 44782559,
-              "CONCEPT_NAME": "Dementia due to multiple sclerosis with altered behavior",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
@@ -521,273 +497,83 @@
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "21921000119103",
-              "CONCEPT_ID": 44782710,
-              "CONCEPT_NAME": "Dementia due to Pick's disease",
+              "CONCEPT_CODE": "788911004",
+              "CONCEPT_ID": 37311987,
+              "CONCEPT_NAME": "Dissociative neurological symptom disorder co-occurrent with Parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "762350007",
-              "CONCEPT_ID": 42538609,
-              "CONCEPT_NAME": "Dementia due to prion disease",
+              "CONCEPT_CODE": "722763000",
+              "CONCEPT_ID": 36716653,
+              "CONCEPT_NAME": "Dopamine transporter deficiency syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "130121000119104",
-              "CONCEPT_ID": 43020422,
-              "CONCEPT_NAME": "Dementia due to Rett's syndrome",
+              "CONCEPT_CODE": "722435003",
+              "CONCEPT_ID": 36716432,
+              "CONCEPT_NAME": "Dystonia 16",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "278857002",
-              "CONCEPT_ID": 441002,
-              "CONCEPT_NAME": "Dementia of frontal lobe type",
+              "CONCEPT_CODE": "716107009",
+              "CONCEPT_ID": 37399497,
+              "CONCEPT_NAME": "Early onset parkinsonism and intellectual disability syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1581000119101",
-              "CONCEPT_ID": 43530664,
-              "CONCEPT_NAME": "Dementia of the Alzheimer type with behavioral disturbance",
+              "CONCEPT_CODE": "290801002",
+              "CONCEPT_ID": 4096571,
+              "CONCEPT_NAME": "Ethopropazine poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1591000119103",
-              "CONCEPT_ID": 43530666,
-              "CONCEPT_NAME": "Dementia with behavioral disturbance",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "733194007",
-              "CONCEPT_ID": 37116469,
-              "CONCEPT_NAME": "Dementia with Down syndrome",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "142001000119106",
-              "CONCEPT_ID": 44782727,
-              "CONCEPT_NAME": "Depressed mood in Alzheimer's disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "9345005",
-              "CONCEPT_ID": 4244346,
-              "CONCEPT_NAME": "Dialysis dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "80098002",
-              "CONCEPT_ID": 380701,
-              "CONCEPT_NAME": "Diffuse Lewy body disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "789170003",
-              "CONCEPT_ID": 37311665,
-              "CONCEPT_NAME": "Disinhibited behavior due to dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "105421000119105",
-              "CONCEPT_ID": 44782432,
-              "CONCEPT_NAME": "Early onset Alzheimer's disease with behavioral disturbance",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "724992007",
-              "CONCEPT_ID": 37110677,
-              "CONCEPT_NAME": "Epilepsy co-occurrent and due to dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "82381000119103",
-              "CONCEPT_ID": 37018608,
-              "CONCEPT_NAME": "Epileptic dementia with behavioral disturbance",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "721219005",
-              "CONCEPT_ID": 36717455,
-              "CONCEPT_NAME": "Familial Alzheimer-like prion disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230265002",
-              "CONCEPT_ID": 4043241,
-              "CONCEPT_NAME": "Familial Alzheimer's disease of early onset",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230267005",
-              "CONCEPT_ID": 4043243,
-              "CONCEPT_NAME": "Familial Alzheimer's disease of late onset",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230269008",
-              "CONCEPT_ID": 4043377,
-              "CONCEPT_NAME": "Focal Alzheimer's disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230270009",
-              "CONCEPT_ID": 4043378,
-              "CONCEPT_NAME": "Frontotemporal dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
@@ -801,343 +587,683 @@
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "407632003",
-              "CONCEPT_ID": 4250118,
-              "CONCEPT_NAME": "GDS level 4 - moderate cognitive decline",
+              "CONCEPT_CODE": "724823008",
+              "CONCEPT_ID": 37110549,
+              "CONCEPT_NAME": "Functional parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "407633008",
-              "CONCEPT_ID": 4233045,
-              "CONCEPT_NAME": "GDS level 5 - moderately severe cognitive decline",
+              "CONCEPT_CODE": "737582007",
+              "CONCEPT_ID": 42537905,
+              "CONCEPT_NAME": "Hemiparkinsonism hemiatrophy syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "407634002",
-              "CONCEPT_ID": 4236296,
-              "CONCEPT_NAME": "GDS level 6 - severe cognitive decline",
+              "CONCEPT_CODE": "718174008",
+              "CONCEPT_ID": 37397519,
+              "CONCEPT_NAME": "Infantile striatonigral degeneration",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "407635001",
-              "CONCEPT_ID": 4236297,
-              "CONCEPT_NAME": "GDS level 7 - very severe cognitive decline",
+              "CONCEPT_CODE": "724546003",
+              "CONCEPT_ID": 37117203,
+              "CONCEPT_NAME": "Infection causing parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "702426001",
-              "CONCEPT_ID": 45765477,
-              "CONCEPT_NAME": "GRN-related frontotemporal dementia",
+              "CONCEPT_CODE": "295820003",
+              "CONCEPT_ID": 4169857,
+              "CONCEPT_NAME": "Intentional amantadine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "2421000119107",
-              "CONCEPT_ID": 37109222,
-              "CONCEPT_NAME": "Hallucinations co-occurrent and due to late onset dementia",
+              "CONCEPT_CODE": "290789005",
+              "CONCEPT_ID": 4096453,
+              "CONCEPT_NAME": "Intentional amantadine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "703544004",
-              "CONCEPT_ID": 45766396,
-              "CONCEPT_NAME": "Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia",
+              "CONCEPT_CODE": "295828005",
+              "CONCEPT_ID": 4169859,
+              "CONCEPT_NAME": "Intentional bromocriptine overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "723123001",
-              "CONCEPT_ID": 36717248,
-              "CONCEPT_NAME": "Ischemic vascular dementia",
+              "CONCEPT_CODE": "290797003",
+              "CONCEPT_ID": 4095082,
+              "CONCEPT_NAME": "Intentional bromocriptine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "229672009",
-              "CONCEPT_ID": 4044415,
-              "CONCEPT_NAME": "Language disorder of dementia",
+              "CONCEPT_CODE": "290800001",
+              "CONCEPT_ID": 4094618,
+              "CONCEPT_NAME": "Intentional ethopropazine poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "135811000119107",
-              "CONCEPT_ID": 44782763,
-              "CONCEPT_NAME": "Lewy body dementia with behavioral disturbance",
+              "CONCEPT_CODE": "295816002",
+              "CONCEPT_ID": 4172902,
+              "CONCEPT_NAME": "Intentional levodopa overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "428051000124108",
-              "CONCEPT_ID": 762497,
-              "CONCEPT_NAME": "Mild dementia",
+              "CONCEPT_CODE": "290786003",
+              "CONCEPT_ID": 4095080,
+              "CONCEPT_NAME": "Intentional levodopa poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230287006",
-              "CONCEPT_ID": 4046090,
-              "CONCEPT_NAME": "Mixed cortical and subcortical vascular dementia",
+              "CONCEPT_CODE": "295824007",
+              "CONCEPT_ID": 4169858,
+              "CONCEPT_NAME": "Intentional lysuride overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "79341000119107",
-              "CONCEPT_ID": 43021816,
-              "CONCEPT_NAME": "Mixed dementia",
+              "CONCEPT_CODE": "290793004",
+              "CONCEPT_ID": 4094935,
+              "CONCEPT_NAME": "Intentional lysuride poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "430771000124100",
-              "CONCEPT_ID": 762704,
-              "CONCEPT_NAME": "Moderate dementia",
+              "CONCEPT_CODE": "291238001",
+              "CONCEPT_ID": 4157073,
+              "CONCEPT_NAME": "Intentional selegiline poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "56267009",
-              "CONCEPT_ID": 379778,
-              "CONCEPT_NAME": "Multi-infarct dementia",
+              "CONCEPT_CODE": "43647007",
+              "CONCEPT_ID": 4184466,
+              "CONCEPT_NAME": "Juvenile paralysis agitans of Hunt",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "106021000119105",
-              "CONCEPT_ID": 37395562,
-              "CONCEPT_NAME": "Multi-infarct dementia due to atherosclerosis",
+              "CONCEPT_CODE": "230291001",
+              "CONCEPT_ID": 4047751,
+              "CONCEPT_NAME": "Juvenile Parkinson's disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "70936005",
-              "CONCEPT_ID": 377254,
-              "CONCEPT_NAME": "Multi-infarct dementia, uncomplicated",
+              "CONCEPT_CODE": "723992000",
+              "CONCEPT_ID": 37117179,
+              "CONCEPT_NAME": "Kufor Rakeb syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "10349009",
-              "CONCEPT_ID": 444091,
-              "CONCEPT_NAME": "Multi-infarct dementia with delirium",
+              "CONCEPT_CODE": "295814004",
+              "CONCEPT_ID": 4174345,
+              "CONCEPT_NAME": "Levodopa overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "25772007",
-              "CONCEPT_ID": 443790,
-              "CONCEPT_NAME": "Multi-infarct dementia with delusions",
+              "CONCEPT_CODE": "295817006",
+              "CONCEPT_ID": 4169855,
+              "CONCEPT_NAME": "Levodopa overdose of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "14070001",
-              "CONCEPT_ID": 443864,
-              "CONCEPT_NAME": "Multi-infarct dementia with depression",
+              "CONCEPT_CODE": "290787007",
+              "CONCEPT_ID": 4094932,
+              "CONCEPT_NAME": "Levodopa poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "722600006",
-              "CONCEPT_ID": 36716558,
-              "CONCEPT_NAME": "Non-amnestic Alzheimer disease",
+              "CONCEPT_CODE": "295822006",
+              "CONCEPT_ID": 4174461,
+              "CONCEPT_NAME": "Lysuride overdose",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230266001",
-              "CONCEPT_ID": 4043242,
-              "CONCEPT_NAME": "Non-familial Alzheimer's disease of early onset",
+              "CONCEPT_CODE": "295825008",
+              "CONCEPT_ID": 4172904,
+              "CONCEPT_NAME": "Lysuride overdose of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230268000",
-              "CONCEPT_ID": 4043244,
-              "CONCEPT_NAME": "Non-familial Alzheimer's disease of late onset",
+              "CONCEPT_CODE": "290791002",
+              "CONCEPT_ID": 4094933,
+              "CONCEPT_NAME": "Lysuride poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "420614009",
-              "CONCEPT_ID": 4224860,
-              "CONCEPT_NAME": "Organic dementia associated with AIDS",
+              "CONCEPT_CODE": "290794005",
+              "CONCEPT_ID": 4095081,
+              "CONCEPT_NAME": "Lysuride poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "230294009",
+              "CONCEPT_ID": 4044052,
+              "CONCEPT_NAME": "Manganese-induced parkinsonism",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "15782007",
+              "CONCEPT_ID": 4049300,
+              "CONCEPT_NAME": "MPTP-induced parkinsonism",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "72820004",
+              "CONCEPT_ID": 4248716,
+              "CONCEPT_NAME": "Neuroleptic-induced Parkinsonism",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "427488005",
+              "CONCEPT_ID": 4142980,
+              "CONCEPT_NAME": "On - off phenomenon",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "718685006",
+              "CONCEPT_ID": 36713737,
+              "CONCEPT_NAME": "Orthostatic hypotension co-occurrent and due to Parkinson's disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "295813005",
+              "CONCEPT_ID": 4176981,
+              "CONCEPT_NAME": "Overdose of dopaminergic drug used in parkinsonism",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "49049000",
+              "CONCEPT_ID": 381270,
+              "CONCEPT_NAME": "Parkinson's disease",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "62239001",
+              "CONCEPT_ID": 4265907,
+              "CONCEPT_NAME": "Parkinson-dementia complex of Guam",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "783012006",
+              "CONCEPT_ID": 37204371,
+              "CONCEPT_NAME": "Parkinsonian pyramidal syndrome",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "72585000",
+              "CONCEPT_ID": 4219273,
+              "CONCEPT_NAME": "Parkinsonian syndrome associated with idiopathic orthostatic hypotension",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "32798002",
+              "CONCEPT_ID": 4140090,
+              "CONCEPT_NAME": "Parkinsonism",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "766872002",
+              "CONCEPT_ID": 35624223,
+              "CONCEPT_NAME": "Parkinsonism caused by cyanide",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "722556003",
+              "CONCEPT_ID": 36716523,
+              "CONCEPT_NAME": "Parkinsonism co-occurrent and due to acute infection",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "724762006",
+              "CONCEPT_ID": 37110500,
+              "CONCEPT_NAME": "Parkinsonism due to and following injury of head",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "4223005",
+              "CONCEPT_ID": 4171569,
+              "CONCEPT_NAME": "Parkinsonism due to drug",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "722599008",
+              "CONCEPT_ID": 36716557,
+              "CONCEPT_NAME": "Parkinsonism due to hereditary spastic paraplegia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "722965000",
+              "CONCEPT_ID": 36716784,
+              "CONCEPT_NAME": "Parkinsonism due to heredodegenerative disorder",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "722557007",
+              "CONCEPT_ID": 36716524,
+              "CONCEPT_NAME": "Parkinsonism due to human immunodeficiency virus infection",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "724763001",
+              "CONCEPT_ID": 37110501,
+              "CONCEPT_NAME": "Parkinsonism due to mass lesion of brain",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "722558002",
+              "CONCEPT_ID": 36716525,
+              "CONCEPT_NAME": "Parkinsonism following infection",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Finding",
+              "CONCEPT_CODE": "230295005",
+              "CONCEPT_ID": 4043380,
+              "CONCEPT_NAME": "Parkinsonism with calcification of basal ganglia",
+              "DOMAIN_ID": "Condition",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
@@ -1151,665 +1277,338 @@
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230289009",
-              "CONCEPT_ID": 4047748,
-              "CONCEPT_NAME": "Patchy dementia",
+              "CONCEPT_CODE": "699184009",
+              "CONCEPT_ID": 44783137,
+              "CONCEPT_NAME": "Perry syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1089521000000106",
-              "CONCEPT_ID": 35610098,
-              "CONCEPT_NAME": "Predominantly cortical dementia",
+              "CONCEPT_CODE": "32046005",
+              "CONCEPT_ID": 4137289,
+              "CONCEPT_NAME": "Poisoning by amantadine",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1089531000000108",
-              "CONCEPT_ID": 35610099,
-              "CONCEPT_NAME": "Predominantly cortical vascular dementia",
+              "CONCEPT_CODE": "4836003",
+              "CONCEPT_ID": 441458,
+              "CONCEPT_NAME": "Poisoning by anti-parkinsonism drug",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "12348006",
-              "CONCEPT_ID": 378125,
-              "CONCEPT_NAME": "Presenile dementia",
+              "CONCEPT_CODE": "105625006",
+              "CONCEPT_ID": 4022678,
+              "CONCEPT_NAME": "Poisoning by anticonvulsant AND/OR anti-Parkinsonism drug",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "421023003",
-              "CONCEPT_ID": 4224240,
-              "CONCEPT_NAME": "Presenile dementia associated with AIDS",
+              "CONCEPT_CODE": "2121004",
+              "CONCEPT_ID": 4055451,
+              "CONCEPT_NAME": "Poisoning by ethopropazine",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "713488003",
-              "CONCEPT_ID": 37017247,
-              "CONCEPT_NAME": "Presenile dementia co-occurrent with human immunodeficiency virus infection",
+              "CONCEPT_CODE": "86321003",
+              "CONCEPT_ID": 4313437,
+              "CONCEPT_NAME": "Poisoning by levodopa",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191452002",
-              "CONCEPT_ID": 381832,
-              "CONCEPT_NAME": "Presenile dementia with delirium",
+              "CONCEPT_CODE": "19972008",
+              "CONCEPT_ID": 4064308,
+              "CONCEPT_NAME": "Postencephalitic parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "31081000119101",
-              "CONCEPT_ID": 44782771,
-              "CONCEPT_NAME": "Presenile dementia with delusions",
+              "CONCEPT_CODE": "719717006",
+              "CONCEPT_ID": 36714473,
+              "CONCEPT_NAME": "Psychosis co-occurrent and due to Parkinson's disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191455000",
-              "CONCEPT_ID": 377527,
-              "CONCEPT_NAME": "Presenile dementia with depression",
+              "CONCEPT_CODE": "702323008",
+              "CONCEPT_ID": 45765396,
+              "CONCEPT_NAME": "Rapid onset dystonia parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191454001",
-              "CONCEPT_ID": 4098163,
-              "CONCEPT_NAME": "Presenile dementia with paranoia",
+              "CONCEPT_CODE": "103871000119109",
+              "CONCEPT_ID": 46269696,
+              "CONCEPT_NAME": "Restrictive lung disease due to Parkinson disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "1089501000000102",
-              "CONCEPT_ID": 35610096,
-              "CONCEPT_NAME": "Presenile dementia with psychosis",
+              "CONCEPT_CODE": "230292008",
+              "CONCEPT_ID": 374013,
+              "CONCEPT_NAME": "Secondary parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "22381000119105",
-              "CONCEPT_ID": 43020444,
-              "CONCEPT_NAME": "Primary degenerative dementia",
+              "CONCEPT_CODE": "291236002",
+              "CONCEPT_ID": 4162032,
+              "CONCEPT_NAME": "Selegiline poisoning",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "416780008",
-              "CONCEPT_ID": 4218017,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, presenile onset",
+              "CONCEPT_CODE": "291239009",
+              "CONCEPT_ID": 4162033,
+              "CONCEPT_NAME": "Selegiline poisoning of undetermined intent",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "isExcluded": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "6475002",
-              "CONCEPT_ID": 4277444,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, presenile onset, uncomplicated",
+              "CONCEPT_CODE": "724761004",
+              "CONCEPT_ID": 37110499,
+              "CONCEPT_NAME": "Sporadic Parkinson disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "65096006",
-              "CONCEPT_ID": 4277746,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, presenile onset, with delirium",
+              "CONCEPT_CODE": "29618004",
+              "CONCEPT_ID": 4106410,
+              "CONCEPT_NAME": "Striatonigral degeneration",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "54502004",
-              "CONCEPT_ID": 4182539,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions",
+              "CONCEPT_CODE": "265377002",
+              "CONCEPT_ID": 4140881,
+              "CONCEPT_NAME": "Symptomatic parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "10532003",
-              "CONCEPT_ID": 4019705,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, presenile onset, with depression",
+              "CONCEPT_CODE": "38523005",
+              "CONCEPT_ID": 373139,
+              "CONCEPT_NAME": "Syphilitic parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "416975007",
-              "CONCEPT_ID": 4220313,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset",
+              "CONCEPT_CODE": "230296006",
+              "CONCEPT_ID": 4046093,
+              "CONCEPT_NAME": "Vascular parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "66108005",
-              "CONCEPT_ID": 4278830,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",
+              "CONCEPT_CODE": "698279003",
+              "CONCEPT_ID": 44784241,
+              "CONCEPT_NAME": "X-linked dystonia parkinsonism",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "429161000124103",
-              "CONCEPT_ID": 762578,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset, with behavioral disturbance",
+              "CONCEPT_CODE": "770757004",
+              "CONCEPT_ID": 36674193,
+              "CONCEPT_NAME": "X-linked parkinsonism with spasticity syndrome",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "4817008",
-              "CONCEPT_ID": 4167839,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset, with delirium",
+              "CONCEPT_CODE": "715345007",
+              "CONCEPT_ID": 37395785,
+              "CONCEPT_NAME": "Young onset Parkinson disease",
               "DOMAIN_ID": "Condition",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "55009008",
-              "CONCEPT_ID": 4204688,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset, with delusions",
-              "DOMAIN_ID": "Condition",
+              "CONCEPT_CLASS_ID": "Context-dependent",
+              "CONCEPT_CODE": "515841000000104",
+              "CONCEPT_ID": 44802648,
+              "CONCEPT_NAME": "History of Parkinson's disease",
+              "DOMAIN_ID": "Observation",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "26852004",
-              "CONCEPT_ID": 4097384,
-              "CONCEPT_NAME": "Primary degenerative dementia of the Alzheimer type, senile onset, with depression",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "774069007",
-              "CONCEPT_ID": 36674472,
-              "CONCEPT_NAME": "PRKAR1B-related neurodegenerative dementia with intermediate filaments",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230280008",
-              "CONCEPT_ID": 4043379,
-              "CONCEPT_NAME": "Progressive aphasia in Alzheimer's disease",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "789011007",
-              "CONCEPT_ID": 37311890,
-              "CONCEPT_NAME": "Psychological symptom due to dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "723390000",
-              "CONCEPT_ID": 37109635,
-              "CONCEPT_NAME": "Rapidly progressive dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230288001",
-              "CONCEPT_ID": 4046091,
-              "CONCEPT_NAME": "Semantic dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "15662003",
-              "CONCEPT_ID": 4048875,
-              "CONCEPT_NAME": "Senile dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "312991009",
-              "CONCEPT_ID": 4196433,
-              "CONCEPT_NAME": "Senile dementia of the Lewy body type",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191461002",
-              "CONCEPT_ID": 376946,
-              "CONCEPT_NAME": "Senile dementia with delirium",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "371024007",
-              "CONCEPT_ID": 380986,
-              "CONCEPT_NAME": "Senile dementia with delusion",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191459006",
-              "CONCEPT_ID": 379784,
-              "CONCEPT_NAME": "Senile dementia with depression",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191457008",
-              "CONCEPT_ID": 4101137,
-              "CONCEPT_NAME": "Senile dementia with depressive or paranoid features",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191458003",
-              "CONCEPT_ID": 4100250,
-              "CONCEPT_NAME": "Senile dementia with paranoia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "371026009",
-              "CONCEPT_ID": 4159643,
-              "CONCEPT_NAME": "Senile dementia with psychosis",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "428351000124105",
-              "CONCEPT_ID": 765653,
-              "CONCEPT_NAME": "Severe dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "762707000",
-              "CONCEPT_ID": 42538857,
-              "CONCEPT_NAME": "Subcortical dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230286002",
-              "CONCEPT_ID": 4047747,
-              "CONCEPT_NAME": "Subcortical vascular dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191463004",
-              "CONCEPT_ID": 439276,
-              "CONCEPT_NAME": "Uncomplicated arteriosclerotic dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191451009",
-              "CONCEPT_ID": 376085,
-              "CONCEPT_NAME": "Uncomplicated presenile dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "191449005",
-              "CONCEPT_ID": 375791,
-              "CONCEPT_NAME": "Uncomplicated senile dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "429998004",
-              "CONCEPT_ID": 443605,
-              "CONCEPT_NAME": "Vascular dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "230285003",
-              "CONCEPT_ID": 4046089,
-              "CONCEPT_NAME": "Vascular dementia of acute onset",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "288631000119104",
-              "CONCEPT_ID": 37018688,
-              "CONCEPT_NAME": "Vascular dementia with behavioral disturbance",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "16276361000119109",
-              "CONCEPT_ID": 37109056,
-              "CONCEPT_NAME": "Vascular dementia without behavioral disturbance",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Finding",
-              "CONCEPT_CODE": "789062005",
-              "CONCEPT_ID": 37312577,
-              "CONCEPT_NAME": "Wandering due to dementia",
-              "DOMAIN_ID": "Condition",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
+            },
+            "includeDescendants": true
           }
         ]
       }
@@ -1819,12 +1618,13 @@
     "CriteriaList": [
       {
         "ConditionOccurrence": {
-          "CodesetId": 0
+          "CodesetId": 0,
+          "First": true
         }
       }
     ],
     "ObservationWindow": {
-      "PriorDays": 0,
+      "PriorDays": 365,
       "PostDays": 0
     },
     "PrimaryCriteriaLimit": {
